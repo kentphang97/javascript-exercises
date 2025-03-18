@@ -16,4 +16,7 @@ const palindromes = function (string) {
   return cleanedString === reversedString;
 };
 
+const arrayTest =[0,1,2,3];
+arrayTest.filter
+
 module.exports = palindromes;
